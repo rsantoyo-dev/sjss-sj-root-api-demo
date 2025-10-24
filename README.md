@@ -15,3 +15,8 @@ Highlights
 
 - Website and docs: https://sjss.netlify.app/
 - NPM package: https://www.npmjs.com/package/super-jss
+
+## Editing & Autocompletion
+
+- Install Angular Language Service for template IntelliSense:
+Angular tooling: https://stackblitz.com/~/github.com/rsantoyo-dev/sjss-sj-root-api-demo
